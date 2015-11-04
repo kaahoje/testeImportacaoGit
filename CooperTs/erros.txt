@@ -76,3 +76,8 @@ Image
 
 39 - 4.5.1
 
+40 - 11.1.1
+
+41 - 11.4
+
+42 - Erro no menu de Operações de Funcionário
